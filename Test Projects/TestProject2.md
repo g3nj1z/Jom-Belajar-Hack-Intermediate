@@ -1,21 +1,5 @@
 # OS command injection
 
-## [OS command injection, simple case](https://portswigger.net/web-security/os-command-injection/lab-simple)
-
-This lab contains an OS command injection vulnerability in the product stock checker.
-
-The application executes a shell command containing user-supplied product and store IDs, and returns the raw output from the command in its response.
-
-To solve the lab, execute the whoami command to determine the name of the current user.
-
-## [Blind OS command injection with time delays](https://portswigger.net/web-security/os-command-injection/lab-blind-time-delays)
-
-This lab contains a blind OS command injection vulnerability in the feedback function.
-
-The application executes a shell command containing the user-supplied details. The output from the command is not returned in the response.
-
-To solve the lab, exploit the blind OS command injection vulnerability to cause a 10 second delay. 
-
 ## [Blind OS command injection with output redirection](https://portswigger.net/web-security/os-command-injection/lab-blind-output-redirection)
 
 This lab contains a blind OS command injection vulnerability in the feedback function.
