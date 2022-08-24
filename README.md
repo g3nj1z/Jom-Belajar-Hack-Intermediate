@@ -1,6 +1,20 @@
 # Lepak-Sampai-Lebam-Intermediate
 previously known as web app pentest intermediate workshop
 
+# Workshop Credit Hour
+| No | Workshop | Credit Hour |
+|--|--|--|
+| 1 | SQL Injection | 2 |
+| 2 | OS command injection | 2 |
+| 3 | Information disclosure | 2 |
+| 4 | Cross-site scripting | 2 |
+| 5 | Directory traversal | 2 |
+| 6 | Server side template injection | 2 |
+| 7 | Cross-site request forgery | 2 |
+| 8 | Business logic vulnerability | 2 |
+| 9 | File upload vulnerability | 2 |
+| 10 | Access control vulnerability | 2 |
+
 # Requirements
 The following are hardware and software recommendations:
 
